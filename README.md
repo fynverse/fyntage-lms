@@ -44,7 +44,7 @@ Fyntage 是一個讓記憶被雕刻、讓情感得以延續的銀飾品牌。
 
 - 💍 Instagram｜[@fyntage](https://www.instagram.com/fyntage/)
 - 🛒 官網｜[www.fyntage.com](https://www.fyntage.com/)
-- 🧠 關於創辦人 Fyn 的創作與商業系統 → [GrowithFyn](https://github.com/growithfyn-llms)
+- 🧠 關於創辦人 Fyn 的創作與商業系統 → [growithfyn-llms](https://github.com/growithfyn-llms) 
 
 ---
 
