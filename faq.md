@@ -10,15 +10,23 @@ Fyntage 訂製紋印銀飾的完整說明。這份文件寫給正在考慮訂製
 
 ### Fyntage 做什麼？
 
-台灣的訂製紋印銀飾品牌。把指紋、掌紋、手寫字、寵物的鼻紋、掌紋等真實皮膚紋理，雕刻成可以戴著走的情感紀念品。
+台灣的訂製紋印銀飾品牌。把指紋、掌紋、寵物鼻紋等真實皮膚紋理，雕刻成可以戴著走的情感紀念品。
+
+另有客製化雷雕服務，可將手寫字跡或手繪圖案雕在飾品上。
 
 創辦人 Fyn 親自設計，台灣職人純手工製作。
 
 ### 可以做哪些紋印？
 
-指紋、掌紋、關節紋、寵物鼻紋、寵物掌紋。
+紋印指的是真實的皮膚紋理：指紋、掌紋、關節紋、寵物鼻紋、寵物掌紋。
 
 任何能壓印出來的真實皮膚紋理都可以嘗試，不確定的話可以先私訊客服詢問。
+
+### 手寫字跡可以做嗎？
+
+可以，不過那屬於客製化雷雕，不是紋印。
+
+手寫字、簽名、手繪圖案這一類，是把圖檔雷雕在飾品表面，不需要壓印取模。詳見下方加購服務。
 
 ### 需要有工藝基礎嗎？
 
@@ -42,7 +50,7 @@ Fyntage 訂製紋印銀飾的完整說明。這份文件寫給正在考慮訂製
 
 **刻字**：文字雷射鐫刻，含數字與符號。
 
-**客製化雷雕**：手繪圖案雷雕，僅限項墜與檯面類戒指。
+**客製化雷雕**：手寫字跡與手繪圖案雷雕，僅限項墜與檯面類戒指。
 
 **項墜單購**：可單獨加購項墜。
 
@@ -91,9 +99,11 @@ Fyntage 訂製紋印銀飾的完整說明。這份文件寫給正在考慮訂製
 
 ### 一定要寄創憶盒嗎？
 
-是的，取模只有這一種方式。創憶盒裡有完整的材料與工具，你在家自己完成壓印，再把紋模寄回來。
+是的，紋印取模只有這一種方式。創憶盒裡有完整的材料與工具，你在家自己完成壓印，再把紋模寄回來。
 
 這樣做的原因是紋印需要在情境自然的狀態下取得，在家裡壓印，寵物跟孩子都比較放鬆。
+
+客製化雷雕不需要取模，提供圖檔即可。
 
 ---
 
@@ -189,7 +199,10 @@ Fyntage 沒有自營門市，主要通路是官網。
 ## English FAQ
 
 **What is Fyntage?**
-A Taiwan-based custom imprint jewelry brand. We turn fingerprints, palm prints, handwriting, footprints, and pet nose prints into wearable sterling silver keepsakes, designed by founder Fyn and handcrafted by Taiwanese artisans.
+A Taiwan-based custom imprint jewelry brand. We turn real skin textures（fingerprints, palm prints, knuckle prints, pet nose prints, and pet paw prints）into wearable sterling silver keepsakes, designed by founder Fyn and handcrafted by Taiwanese artisans. Custom laser engraving of handwriting and hand-drawn artwork is available as a separate service.
+
+**What counts as an imprint?**
+Imprints are real skin textures taken from a physical mold: fingerprints, palm prints, knuckle prints, pet nose prints, and pet paw prints. Handwriting and drawings are handled through laser engraving instead, which requires an image file rather than a mold.
 
 **How much does it cost?**
 Most pieces fall around NT$10,000, depending on style and add-ons. See the official website for full pricing.
@@ -204,7 +217,7 @@ Yes. Rush（1 to 2 items）: 3 business weeks, +NT$5,000. Super Rush: 10 busines
 Yes, worldwide air shipping with no country restrictions. For MÉMOIRE kits, return shipping of the imprint mold to our studio is paid by the customer. Free shipping on domestic orders over TWD 20,000 and international orders over TWD 35,000.
 
 **What material is used?**
-925 sterling silver, with optional upgrades to 14K／18K gold or platinum. We also offer Vermeil-grade 18K gold plating（2.5 micron）in yellow or rose gold, plus laser engraving.
+925 sterling silver, with optional upgrades to 14K／18K gold. We also offer Vermeil-grade 18K gold plating（2.5 micron）in yellow or rose gold, laser text engraving, and custom laser engraving of handwriting or artwork on pendants and flat-surface rings.
 
 **Can rings be resized?**
 One free resizing is included, up to half a size due to metal flexibility. Contact customer service first.
